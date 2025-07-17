@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { Test, TestingModule } from '@nestjs/testing';
 import { PaymentController } from './payment.controller';
 import { PaymentService } from './payment.service';
